@@ -10,18 +10,26 @@
 
 </div>
 
+### 👨‍💼 what do i do, professionally?
 
-<!--
-**salilsh/salilsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a technical writer by day. A software engineer by night. otherwise, wholeheartedly a student. 🧑‍🎓
 
-Here are some ideas to get you started:
+### what i'm working on these days?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+right now, at Blueshift. as a senior technical writer, writing their product and developer documentation. 📝
+would like to check 'em out? here you go:
+
+- [product documentation](https://help.blueshift.com/hc/en-us)
+- [developer documentation](https://developer.blueshift.com)
+
+### what was i working on, previously?
+
+earlier, i was a technical writer at these companies:
+
+- Druva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Druva_Logo.svg" height=20>
+- Adobe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Adobe_Systems_logo_and_wordmark.svg" height=20>
+- Symantec&nbsp;&nbsp; <img src="symantec.svg" height=20>
+
+before that, a manual tester at:
+
+- HCL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HCL.svg" height=8>
