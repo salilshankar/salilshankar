@@ -1,8 +1,6 @@
-<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&display=swap" rel="stylesheet">
+<p align="center" style="font-family: 'Comfortaa', cursive;">hello, world! 🙋 </p>
 
-# <p align="center" style="font-family: 'Comfortaa', cursive;">hello, world! 🙋 </p>
-
-## <p align="center" style="font-family: 'Comfortaa', cursive;">it's salil</p>
+<p align="center" style="font-family: 'Comfortaa', cursive;">it's salil</p>
 
 <p align="center" style="font-family: 'Comfortaa', cursive;">student ✨ engineer ✨ writer ✨ product builder ✨ film-maker</p>
 
