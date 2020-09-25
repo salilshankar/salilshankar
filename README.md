@@ -1,8 +1,10 @@
-### hello, world! 🙋
----
-it's salil
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&display=swap" rel="stylesheet">
 
-engineer. writer. product builder. film-maker.
+# <p align="center" style="font-family: 'Comfortaa', cursive;">hello, world! 🙋 </p>
+
+## <p align="center" style="font-family: 'Comfortaa', cursive;">it's salil</p>
+
+<p align="center" style="font-family: 'Comfortaa', cursive;">student ✨ engineer ✨ writer ✨ product builder ✨ film-maker</p>
 
 <!--
 **salilsh/salilsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
