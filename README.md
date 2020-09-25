@@ -36,7 +36,7 @@ before that, a manual tester at:
 
 ### what's up with my github? <img src="assets/octocat.svg" height=20>
 
-well, currently, bit by the bug of coding again. if you, look closely, this is what i've been doing:
+well, currently, bit by the bug of coding again. if you look closely, this is what i've been doing:
 
 - learning go: <img src="assets/go.svg" height=20>
 - learning elixir: <img src="assets/elixir.svg" height=20>
