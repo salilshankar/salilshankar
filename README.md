@@ -5,8 +5,8 @@
 <div align="center">
 <p style="font-family: BlinkMacSystemFont, -apple-system, 'proxima nova', 'proxima-nova', roboto, Segoe UI,open sans,Helvetica,Arial,sans-serif, Apple Color Emoji, Segoe UI Emoji;">student ✨ engineer ✨ writer ✨ (software) product builder ✨ film-maker </p>
 
-<a href="https://www.linkedin.com/in/salil1"><img src="LI-Bug.svg.original.svg" height=20></a>
-<a href="https://twitter.com/cyberstruggler"><img src="Twitter_logo.svg" height=20></a>
+<a href="https://www.linkedin.com/in/salil1"><img src="assets/LI-Bug.svg.original.svg" height=20></a>
+<a href="https://twitter.com/cyberstruggler"><img src="assets/Twitter_logo.svg" height=20></a>
 
 </div>
 
@@ -26,10 +26,10 @@ would like to check 'em out? here you go:
 
 earlier, i was a technical writer at these companies:
 
-- Druva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Druva_Logo.svg" height=20>
-- Adobe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Adobe_Systems_logo_and_wordmark.svg" height=20>
-- Symantec&nbsp;&nbsp; <img src="symantec.svg" height=20>
+- Druva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Druva_Logo.svg" height=20>
+- Adobe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Adobe_Systems_logo_and_wordmark.svg" height=20>
+- Symantec&nbsp;&nbsp; <img src="assets/symantec.svg" height=20>
 
 before that, a manual tester at:
 
-- HCL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HCL.svg" height=8>
+- HCL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/HCL.svg" height=8>
