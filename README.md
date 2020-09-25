@@ -10,19 +10,19 @@
 
 </div>
 
-### 👨‍💼 what do i do, professionally?
+### what do i do, professionally? 👨‍💼
 
-i'm a technical writer by day. A software engineer by night. otherwise, wholeheartedly a student. 🧑‍🎓
+i'm a technical writer by day. a software engineer by night. otherwise, wholeheartedly a student. 🧑‍🎓
 
-### what i'm working on these days?
+### what i'm working on these days? 🖥️
 
 right now, at Blueshift. as a senior technical writer, writing their product and developer documentation. 📝
-would like to check 'em out? here you go:
+<br/>would like to check 'em out? here you go:
 
 - [product documentation](https://help.blueshift.com/hc/en-us)
 - [developer documentation](https://developer.blueshift.com)
 
-### what was i working on, previously?
+### what was i working on, previously? 📅
 
 earlier, i was a technical writer at these companies:
 
@@ -33,3 +33,14 @@ earlier, i was a technical writer at these companies:
 before that, a manual tester at:
 
 - HCL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/HCL.svg" height=8>
+
+### what's up with my github? <img src="assets/octocat.svg" height=20>
+
+well, currently, bit by the bug of coding again. if you, look closely, this is what i've been doing:
+
+- learning go: <img src="assets/go.svg" height=20>
+- learning elixir: <img src="assets/elixir.svg" height=20>
+
+### and what's next? :sunny:
+
+next is, well... nextjs <img src="assets/nextjs.svg" height=20> :rofl:. But yeah, one of the frontend frameworks, and then, maybe flutter for mobile development. :blush:
