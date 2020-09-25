@@ -43,4 +43,4 @@ well, currently, bit by the bug of coding again. if you, look closely, this is w
 
 ### and what's next? :sunny:
 
-next is, well... nextjs <img src="assets/nextjs.svg" height=20> :rofl:. But yeah, one of the frontend frameworks, and then, maybe flutter for mobile development. :blush:
+next is, well... nextjs <img src="assets/nextjs.svg" height=20> :rofl:. but yeah, one of the frontend frameworks, and then, maybe flutter for mobile development. :blush:
