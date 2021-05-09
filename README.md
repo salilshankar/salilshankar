@@ -16,7 +16,8 @@ i'm a technical writer by day. a software engineer by night. otherwise, wholehea
 
 ### what i'm working on these days? 🖥️
 
-right now, at Blueshift <img src="assets/bsft.svg" height=20>. as a senior technical writer, writing their product and developer documentation. 📝
+right now, with Blueshift <img src="assets/bsft.svg" height=20> as a software engineer working with their data engineering team, writing APIs for data import/export/management using Ruby on Rails 😀.
+Earlier, i was writing their product and developer documentation. 📝
 <br/>would like to check 'em out? here you go:
 
 - [product documentation](https://help.blueshift.com/hc/en-us)
