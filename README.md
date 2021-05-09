@@ -12,7 +12,7 @@
 
 ### what do i do, professionally? 👨‍💼
 
-i'm a technical writer by day. a software engineer by night. otherwise, wholeheartedly a student. 🧑‍🎓
+i'm a software engineer by day. but, honestly, a student. 🧑‍🎓
 
 ### what i'm working on these days? 🖥️
 
