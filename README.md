@@ -6,7 +6,7 @@
 <p style="font-family: BlinkMacSystemFont, -apple-system, 'proxima nova', 'proxima-nova', roboto, Segoe UI,open sans,Helvetica,Arial,sans-serif, Apple Color Emoji, Segoe UI Emoji;">student ✨ engineer ✨ writer ✨ (software) product builder ✨ film-maker </p>
 
 <a href="https://www.linkedin.com/in/salil1" target="_blank"><img src="assets/LI-Bug.svg.original.svg" height=20></a>
-<a href="https://twitter.com/cyberstruggler" target="_blank"><img src="assets/Twitter_logo.svg" height=20></a>
+<a href="https://twitter.com/salilshankar" target="_blank"><img src="assets/Twitter_logo.svg" height=20></a>
 
 </div>
 
