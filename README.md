@@ -23,7 +23,7 @@ before i joined D.E. Shaw & Co., i was writing some sweet Ruby on Rails code at 
 
 earlier, i was a technical writer at these companies:
 
-- Blueshift &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/bsft.png" height=20>
+- Blueshift &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/bsft.png" height=20>
 - Druva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Druva_Logo.svg" height=20>
 - Adobe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Adobe_Systems_logo_and_wordmark.svg" height=20>
 - Symantec&nbsp;&nbsp; <img src="assets/symantec.svg" height=20>
