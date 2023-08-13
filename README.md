@@ -37,6 +37,6 @@ before that, a manual tester at:
 
 well, currently, it's a bit of a desert. not much going on... hopefully, when i start writing my first US $1 Billion idea, maybe i'll have green bathroom tiles to show off, too. 😄
 
-## and what's next? :sunny
+## and what's next? :sunny:
 
 i'm hearing good things about rust, let's see if i can build something in it. :blush:
